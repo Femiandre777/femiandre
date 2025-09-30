@@ -1,4 +1,4 @@
-
+<align = 'left'>
 <b>Hi there 👋, My name is Oluwafemi Awe</b>
 
 I am a Cybersecurity Specialist
@@ -9,3 +9,6 @@ Skills: Technical Expertise: Vulnerability Management, Web & Application Securit
 
       - Tools: Nmap, Metasploit, Wireshark, Wazuh, Splunk, PFSense, BRPSuite, Kali, VMWare, QRadar, IDP/IPS
       - 📫 How to reach me: nnanyeremirian@gmail.com
+
+
+</align>      
