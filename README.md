@@ -15,5 +15,5 @@ I am a Cybersecurity Specialist with interests in<b> Vulnerability Management</b
       🔸Detect: Continuously monitor networks and systems to quickly identify suspicious activity, intrusions or anomalies. 
       🔸Respond & Recover: Contain threats, mitigate damage, investigate root causes, and restore systems to secure operation while impovering defenses for the future.
 
-###📫Contact Me
+### 📫Contact Me
       - 📧 Email: oawe007@gmail.com
